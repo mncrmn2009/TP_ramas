@@ -1,5 +1,3 @@
-"archivo inicial" 
 
-"MODIFICACION rama principal" 
-
-"Segunda modificacion"
+"MODIFICA NuevoNotas.md ramaPrincipal" 
+>>>>>>> master
